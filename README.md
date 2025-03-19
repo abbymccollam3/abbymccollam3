@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome
 
-<!--
-**abbymccollam3/abbymccollam3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- **Georgia Tech Electrical Engineering Grad**
+- **Startup Experience**: PocketPod (YC W24)
+- **Passionate Problem Solver**: I enjoy solving analytical and algorithmic problems with code
+- **People Person**: I love connecting with people
+- **Full-Stack Developer**: I have experience with frontend and backend development
+- **Challenge Seeker**: Constantly seeking new challenges
+- **Relentless Hard Worker**: Dedicated and hardworking individual
 
-Here are some ideas to get you started:
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/abbymccollam3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages**: Python, JavaScript, HTML, CSS
+- **Frameworks**: React, Node.js
+- **Tools**: Git, Docker, AWS
