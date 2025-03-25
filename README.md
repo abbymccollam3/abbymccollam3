@@ -13,6 +13,6 @@
 - [LinkedIn](https://www.linkedin.com/in/abbymccollam3)
 
 ## Skills
-- **Languages**: Python, JavaScript, HTML, CSS
+- **Languages**: C++, Python, JavaScript, HTML, CSS
 - **Frameworks**: React, Node.js
 - **Tools**: Git, Docker, AWS
