@@ -1,6 +1,7 @@
 # Welcome
 
 ## About Me
+- **Datadog SE**
 - **Georgia Tech Electrical Engineering Grad**
 - **Startup Experience**: PocketPod (YC W24)
 - **Passionate Problem Solver**: I enjoy solving analytical and algorithmic problems with code
