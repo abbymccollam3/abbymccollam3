@@ -8,7 +8,6 @@
 - **People Person**: I love connecting with people
 - **Full-Stack Developer**: I have experience with frontend and backend development
 - **Challenge Seeker**: Constantly seeking new challenges
-- **Relentless Hard Worker**: Dedicated and hardworking individual
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/abbymccollam3)
