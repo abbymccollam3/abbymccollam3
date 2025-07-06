@@ -16,4 +16,5 @@
 ## Skills
 - **Languages**: C++, Python, JavaScript, HTML, CSS
 - **Frameworks**: React, Node.js
-- **Tools**: Git, Docker, AWS
+- **Tools**: Git, Docker, Kubernetes, Postman
+- **Cloud Platforms**: AWS, GCP, Azure
